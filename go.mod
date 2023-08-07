@@ -1,4 +1,4 @@
-module github.com/way/gobco
+module github.com/tourer-zc/gobco
 
 go 1.16
 
