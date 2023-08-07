@@ -12,6 +12,6 @@ var gobcoOpts = gobcoOptions{
 	listAll:     true,
 }
 
-var gobcoCounts = gobcoStats{
+var gobcoCounts = &gobcoStats{
 	conds: []gobcoCond{},
 }
